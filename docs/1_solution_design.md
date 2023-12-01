@@ -1,6 +1,6 @@
-# Hi Mr Associate Director
+# Customer Churn Design
 
-I am contacting you for discussing the approach that we might take in order to explain customer churn and see how it relates to price change increases:
+Here, I'm presenting the approach that we might take in order to explain customer churn and see how it relates to price change increases:
 
 ## Dataset
 
@@ -34,6 +34,4 @@ For evaluating the results, since we definitely care about not losing customers,
 
 This is how I thought about solving this problem, I would like to hear back from you as soon as possible to see what changes we can make to this approach.
 
-Best regards,
-
-NIJADI Mohamed
+This is just a draft, not the actual steps that I took, many approaches can be taken instead of this one.
