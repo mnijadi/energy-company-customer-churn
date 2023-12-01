@@ -4,12 +4,11 @@
 
 This project is a part of the [BCG's Data Science virtual internship](https://www.theforage.com/virtual-internships/prototype/Tcz8gTtprzAS4xSoK/Data-Science-Virtual-Experience-Program).  
 The project is about analyzing customer churn data for an electricity and gas commpany.  
-The project is divided into 4 parts:
+The project is divided into 3 parts:
 
-- Hypothesis framing and solution design
-- Exploratory data analysis in depth
+- Hypothesis framing and in depth exploratory data analysis
 - Feature engineering and modeling
-- Business insights and recommendations
+- Business insights and recommendations using a dashboard
 
 ## Data
 
