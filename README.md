@@ -1,4 +1,4 @@
-# Data Science Virtual Internship : Customer Churn Analysis & Modeling
+# Data Science Virtual Internship : Customer Churn Analysis & Modeling (In Progress)
 
 ## Introduction
 
