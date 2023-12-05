@@ -33,9 +33,7 @@ Dashboards were created using Tableau Public, you can find them [here](https://p
 
 ### Docker
 
-<small>*I know that there is no need to use Docker for this project, but I have learned how to use it recently and I wanted to practice on this project.*</small>
-
-If you want to use Docker for running the project in an isolated environment, you can use the provided `Dockerfile` by doing the following:
+If you want to use Docker (first time dockerizing a project) for running the project in an isolated environment, you can use the provided `Dockerfile` by doing the following:
 
 1. In the project directory, build the image `customer-churn-image`
 2. Run the container
