@@ -16,7 +16,7 @@ This file contains the description of the variables in both the clients and the 
 - `forecast_cons_12m` : forecasted electricity consumption for next 12 months
 - `forecast_cons_year` : forecasted electricity consumption for the next calendar year
 - `forecast_discount_energy`: forecasted value of current discount
-- `forecast_meter_rent_12m` : forecasted bill of meter rental for the next 2 months
+- `forecast_meter_rent_12m` : forecasted bill of meter rental for the next 12 months
 - `forecast_price_energy_off_peak` : forecasted energy price for 1st period (off peak)
 - `forecast_price_energy_peak` : forecasted energy price for 2nd period (peak)
 - `forecast_price_pow_off_peak` : forecasted power price for 1st period (off peak)
