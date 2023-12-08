@@ -21,8 +21,8 @@ WORKDIR /app
 #     appuser
 
 # Install the application's dependencies.
-COPY requirements.txt .
-RUN pip install -r requirements.txt
+COPY docker_requirements.txt .
+RUN pip install -r docker_requirements.txt
 
 # Copy the source code into the container.
 COPY . .
