@@ -27,7 +27,7 @@ The project was done using Python 3 and the following libraries:
 - `seaborn`
 - `scikit-learn`
 
-Dashboards were created using Tableau Public (dashboard in progress), you can find them [here](https://public.tableau.com/app/profile/mohamed.nijadi/viz/energy-company-customer-churn).
+Dashboards were created using Tableau Public (dashboard in progress), you can find them [here](https://public.tableau.com/app/profile/mohamed.nijadi/viz/energy-company-customer-churn/ChurnAnalysis).
 
 Docker should be installed in order to use the provided Docker setup, even though using a Python virtual environment does the job.
 
