@@ -1,4 +1,4 @@
-# Data Science Virtual Internship : Customer Churn Analysis & Modeling (In Progress)
+# Data Science Virtual Internship : Customer Churn Analysis & Modeling
 
 ## Introduction
 
@@ -27,7 +27,11 @@ The project was done using Python 3 and the following libraries:
 - `seaborn`
 - `scikit-learn`
 
+<<<<<<< HEAD
 Dashboards were created using Tableau Public, you can find them [here](https://public.tableau.com/app/profile/mohamed.nijadi/viz/energy-company-customer-churn/ChurnAnalysis).
+=======
+Dashboards were created using Tableau Public (dashboard in progress), you can find them [here](https://public.tableau.com/app/profile/mohamed.nijadi/viz/energy-company-customer-churn/ChurnAnalysis).
+>>>>>>> e9960c7b7ef4b8330a4894e52331b6ef21fd1b80
 
 Docker should be installed in order to use the provided Docker setup, even though using a Python virtual environment does the job.
 
