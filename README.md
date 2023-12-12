@@ -27,7 +27,7 @@ The project was done using Python 3 and the following libraries:
 - `seaborn`
 - `scikit-learn`
 
-Dashboards were created using Tableau Public, you can find them [here](https://public.tableau.com/).
+Dashboards were created using Tableau Public, you can find them [here](https://public.tableau.com/app/profile/mohamed.nijadi/viz/energy-company-customer-churn/ChurnAnalysis).
 
 Docker should be installed in order to use the provided Docker setup, even though using a Python virtual environment does the job.
 
@@ -72,6 +72,22 @@ jupyter notebook
 ```
 
 Now again, use your favorite browser and go to `localhost:8888`, and open notebooks in the given order.
+
+## Dashboard
+
+Our dashboard contains three views (pages):
+
+- **Churn Analysis**: contains a summary of the analysis
+
+![Churn Analysis](assets/ChurnAnalysis.png)
+
+- **Churn Model**: holds our model's metrics and attributes importance
+
+![Churn Analysis](assets/ChurnModel.png)
+
+- **Strategy Evaluation**: Shows how the model positively impacts the business
+
+![Churn Analysis](assets/StrategyEvaluation.png)
 
 ## Acknowledgements
 
