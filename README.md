@@ -79,15 +79,15 @@ Our dashboard contains three views (pages):
 
 - **Churn Analysis**: contains a summary of the analysis
 
-![Churn Analysis](assets/ChurnAnalysis.png)
+![Churn Analysis](images/ChurnAnalysis.png)
 
 - **Churn Model**: holds our model's metrics and attributes importance
 
-![Churn Analysis](assets/ChurnModel.png)
+![Churn Analysis](images/ChurnModel.png)
 
 - **Strategy Evaluation**: Shows how the model positively impacts the business
 
-![Churn Analysis](assets/StrategyEvaluation.png)
+![Churn Analysis](images/StrategyEvaluation.png)
 
 ## Acknowledgements
 
